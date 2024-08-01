@@ -1,9 +1,11 @@
 # Iphone 15 Apple India webiste clone
 
-Deployed Link: [https://devvoyages.onrender.com](https://iphone15proin.netlify.app/)
+![Screenshot (714)](https://github.com/user-attachments/assets/c19be23f-89f6-4483-aa93-8f9aee171ba8)
+
+Deployed Link: https://iphone15proin.netlify.app/
 
 ## Introduction 🐱‍💻
-- Created a website clone of Apple IPhone 15 indian version with advance animation functionalities such as sidebar, phone switching, chop animation etc using <a href="https://stripe.com/in">**GASP**</a> animation library. 
+- Created a website clone of Apple IPhone 15 Indian version with advance animation functionalities such as sidebar, phone switching, chop animation etc using <a href="https://stripe.com/in">**GASP**</a> animation library. 
 
 ## Tech Stack used 👨‍💻
 
@@ -44,6 +46,10 @@ npm run dev
 Hurray 🥳, you successfully deployed the project in your local machine 🎉.  
 
   ## Screenshots  
+![Screenshot (715)](https://github.com/user-attachments/assets/945053e1-c282-4e82-b0f7-710ba3fb3317)
+![Screenshot (719)](https://github.com/user-attachments/assets/8e3c4b64-f6e0-4cf6-94db-ed3746084c52)
+![Screenshot (721)](https://github.com/user-attachments/assets/5ad4d252-fd13-4062-be53-44b095c9fb09)
+![Screenshot (722)](https://github.com/user-attachments/assets/27c1f9f0-ab09-4e14-91bf-5565e9ff1925)
 
 
   ## Loved the project 💖? 
